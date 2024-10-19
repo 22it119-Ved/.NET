@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Lab_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF46D7-1475-4E90-A354-08AED8C8CE1C}|Lab_3\\Lab_3.csproj|d:\\.net\\lab_3\\lab_3\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF46D7-1475-4E90-A354-08AED8C8CE1C}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF46D7-1475-4E90-A354-08AED8C8CE1C}|Lab_3\\Lab_3.csproj|d:\\.net\\lab_3\\lab_3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3FAF46D7-1475-4E90-A354-08AED8C8CE1C}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF46D7-1475-4E90-A354-08AED8C8CE1C}|Lab_3\\Lab_3.csproj|d:\\.net\\lab_3\\lab_3\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3FAF46D7-1475-4E90-A354-08AED8C8CE1C}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF46D7-1475-4E90-A354-08AED8C8CE1C}|Lab_3\\Lab_3.csproj|d:\\.net\\lab_3\\lab_3\\app_themes\\simpletheme\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3FAF46D7-1475-4E90-A354-08AED8C8CE1C}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\app_themes\\simpletheme\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Lab_3\\Lab_3\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Lab_3\\Default.aspx.cs",
+              "ToolTip": "D:\\.NET\\Lab_3\\Lab_3\\Default.aspx.cs*",
+              "RelativeToolTip": "Lab_3\\Default.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:43:44.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\.NET\\Lab_3\\Lab_3\\Default.aspx",
+              "RelativeDocumentMoniker": "Lab_3\\Default.aspx",
+              "ToolTip": "D:\\.NET\\Lab_3\\Lab_3\\Default.aspx",
+              "RelativeToolTip": "Lab_3\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T16:43:12.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\.NET\\Lab_3\\Lab_3\\Site.Master",
+              "RelativeDocumentMoniker": "Lab_3\\Site.Master",
+              "ToolTip": "D:\\.NET\\Lab_3\\Lab_3\\Site.Master",
+              "RelativeToolTip": "Lab_3\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-08T16:42:19.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Style.css",
+              "DocumentMoniker": "D:\\.NET\\Lab_3\\Lab_3\\App_Themes\\SimpleTheme\\Style.css",
+              "RelativeDocumentMoniker": "Lab_3\\App_Themes\\SimpleTheme\\Style.css",
+              "ToolTip": "D:\\.NET\\Lab_3\\Lab_3\\App_Themes\\SimpleTheme\\Style.css",
+              "RelativeToolTip": "Lab_3\\App_Themes\\SimpleTheme\\Style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-08T16:29:19.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
